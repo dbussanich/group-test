@@ -12,6 +12,7 @@
 		162CED981F882FCC0009E721 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 162CED961F882FCC0009E721 /* Main.storyboard */; };
 		162CED9A1F882FCC0009E721 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 162CED991F882FCC0009E721 /* Assets.xcassets */; };
 		162CED9D1F882FCC0009E721 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 162CED9B1F882FCC0009E721 /* LaunchScreen.storyboard */; };
+		162CEDA51F88305A0009E721 /* www in Resources */ = {isa = PBXBuildFile; fileRef = 162CEDA41F88305A0009E721 /* www */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		162CED991F882FCC0009E721 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		162CED9C1F882FCC0009E721 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		162CED9E1F882FCC0009E721 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		162CEDA41F88305A0009E721 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		162CED911F882FCC0009E721 /* group-test */ = {
 			isa = PBXGroup;
 			children = (
+				162CEDA41F88305A0009E721 /* www */,
 				162CED921F882FCC0009E721 /* AppDelegate.swift */,
 				162CED941F882FCC0009E721 /* ViewController.swift */,
 				162CED961F882FCC0009E721 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				162CEDA51F88305A0009E721 /* www in Resources */,
 				162CED9D1F882FCC0009E721 /* LaunchScreen.storyboard in Resources */,
 				162CED9A1F882FCC0009E721 /* Assets.xcassets in Resources */,
 				162CED981F882FCC0009E721 /* Main.storyboard in Resources */,
